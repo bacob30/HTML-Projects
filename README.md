@@ -1,3 +1,4 @@
 # git_test
-odin project tutorial
+Odin Project Testing Files
+Repository for various files used in lessons
 Hello Odin!
